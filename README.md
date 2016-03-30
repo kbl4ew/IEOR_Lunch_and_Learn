@@ -9,6 +9,6 @@ The basic structure of the repo is as follows:
 Please feel free to add additional resources and ideas to existing documents or add new components as you see fit. Please be concise and clear in presenting your work to facilitate the process. 
 
 Enjoy,
-IEOR Graduate Student Group (Kevin, Cheng, Quico)
+IEOR Graduate Student Group (Cheng, Kevin, Quico)
 
 
